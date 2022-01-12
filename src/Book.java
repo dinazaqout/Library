@@ -4,7 +4,7 @@ import java.util.StringJoiner;
 public class Book {
     private String BookName;
     private String bookAuthor;
-    private String Borrower; //اسم المستعير
+    private String Borrower;
  
 
     public Book() {
