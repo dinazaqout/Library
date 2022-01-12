@@ -20,7 +20,7 @@ public class BookHelper {
                         System.out.println("Your book " + bookName + " is deleted.");
                         arrayStack[i] = null;
                         top = top - 1;
-                        //return;
+                        return;
                     }
                 }
             }
